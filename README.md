@@ -1,4 +1,4 @@
-## Hi all! 👋
+## Hi all! 👋 <img src="https://u8views.com/api/v1/github/profiles/28706372/views/day-week-month-total-count.svg" width="0" height="0" />
 
 I lead the [**Nuxt core team**](https://nuxt.com). I'm also a core team member of [Elk](https://github.com/elk-zone/elk/) and a [**@vuejs**](https://github.com/vuejs) community partner. You can also see me at work across the [**@unjs ecosystem**](https://github.com/unjs) and further afield.
 
