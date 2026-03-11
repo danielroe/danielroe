@@ -4,6 +4,6 @@ I lead the [**Nuxt core team**](https://nuxt.com) and created [**npmx.dev**](htt
 
 I've built tools focused on type safety ([**magic-regexp**](https://github.com/unjs/magic-regexp), [**tsperf tracer**](https://github.com/tsperf/tracer)), web performance ([**fontaine**](https://github.com/unjs/fontaine), [**beasties**](https://github.com/danielroe/beasties)), and developer tooling ([**page-speed.dev**](https://page-speed.dev)) — plus the odd word game ([**pangrum**](https://pangrum.com)).
 
-I'm a keynote speaker at conferences worldwide, a Microsoft MVP, Google GDE, and GitHub Star, and was named in the [2025 OpenUK New Year Honours](https://openuk.uk/honours/).
+I'm a keynote speaker at conferences worldwide, a Microsoft MVP, Google GDE, and GitHub Star, and was named in the [2025 OpenUK New Year Honours](https://openuk.uk/community/openuk-honours-lists/2025-honours-lists/).
 
 👉 You can find out more info and other social links [on my website](https://roe.dev).
